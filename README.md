@@ -1,4 +1,11 @@
-<h1 align="center">👋 Hi, This is Neat!</h1>
+<h1 align="center">👋 Hi, This is Neat!
+  <div align="center">
+    <a href="[your-linkedin-URL](https://www.linkedin.com/in/pichsophaneat/)">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-    badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+</h1>
+
 
 ![Untitled (72 × 25 in) (4000 × 1389 px) (4000 × 1389 px) (4000 × 900 px) (1)](https://github.com/pichsophaneatdy/pichsophaneatdy/assets/95105372/24973c2a-b3fc-4f14-9537-802a74d25b9f)
 
