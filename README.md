@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neat</h1>
-<h3 align="center">Love building digital products that have positive impact</h3>
+<h3 align="center">I build web applications that make positive impacts.</h3>
 
 - 📫 How to reach me: **pichsophaneat@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/pichsophaneat/**
