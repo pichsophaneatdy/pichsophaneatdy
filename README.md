@@ -14,11 +14,13 @@
 <p>📍 My Front-end Stacks</p>
 <ul>
   <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>React</li>
   <li>BootStrap</li>
   <li>Sass</li>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Apollo GraphQL Client</li>
 </ul>
 <p>📍 My Back-end Stacks</p>
 <ul>
@@ -28,6 +30,8 @@
   <li>MySQL</li>
   <li>Mongoose</li>
   <li>Knex.js</li>
+  <li>GraphQL</li>
+  <li>Apollo GraphQL Server</li>
 </ul>
 <p>📍 Other technologies</p>
 <ul>
