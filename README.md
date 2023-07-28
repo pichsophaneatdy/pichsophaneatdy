@@ -4,6 +4,7 @@
 - 📫 How to reach me: **pichsophaneat@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/pichsophaneat/**
 - ⚡ Fun fact: **I love coffeee, hiking, and running.**
+- Personal Website: **https://pichsophaneatdy.com/**
 
 <p align="left">
 </p>
