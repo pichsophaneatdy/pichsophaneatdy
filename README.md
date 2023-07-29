@@ -33,10 +33,11 @@
   <li>Knex.js</li>
   <li>GraphQL</li>
   <li>Apollo GraphQL Server</li>
+  <li>Firebase Real-tieme Database</li>
 </ul>
 <p>📍 Other technologies</p>
 <ul>
-  <li>Authentication with JSON Web Tokens</li>
+  <li>Authentication with JSON Web Tokens and Firebase</li>
   <li>Password hasing with Bcrypt.js</li>
   <li>Media Management with Cloudinary</li>
 </ul>
