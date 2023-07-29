@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neat</h1>
-<h3 align="center">I build web applications that make positive impacts.</h3>
+<h3 align="center">I code 24/7 because I want to make impact. I call myself a lifelong learner because you can never learn enough.</h3>
 
 - 📫 How to reach me: **pichsophaneat@gmail.com**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/pichsophaneat/**
-- ⚡ Fun fact: **I love coffeee, hiking, and running.**
-- Personal Website: **https://pichsophaneatdy.com/**
+- ⚡ Fun fact: **I love three things: coffeee, hiking, and running.**
+- Interested in my background? **https://pichsophaneatdy.com/**
 
 <p align="left">
 </p>
