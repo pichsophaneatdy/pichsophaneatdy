@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neat</h1>
-<h3 align="center">I code 24/7 because I want to make impact. I call myself a lifelong learner because you can never learn enough.</h3>
+<h3 align="center">I build web applications because I want to make impact.</h3>
 
-- 📫 How to reach me: **pichsophaneat@gmail.com**
-- 🔗 LinkedIn: **https://www.linkedin.com/in/pichsophaneat/**
 - ⚡ Fun fact: **I love three things: coffeee, hiking, and running.**
-- Interested in my background? **https://pichsophaneatdy.com/**
+- ☄️ Check out more about me **https://pichsophaneatdy.com/**
 
 <p align="left">
 </p>
@@ -12,7 +10,7 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p>📍 My Front-end Stacks</p>
+<p>📍 My Front-end Stacks </p>
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
@@ -46,6 +44,4 @@
 
 <h3 align="left">My Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pichsophaneatdy&show_icons=true&locale=en&layout=compact" alt="pichsophaneatdy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pichsophaneatdy&" alt="pichsophaneatdy" /></p>
 
