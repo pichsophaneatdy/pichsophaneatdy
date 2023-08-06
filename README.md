@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neat</h1>
-<h3 align="center">I build web applications because I want to make impact.</h3>
+<h3 align="center">I love building web apps and I do it 24/7.</h3>
 
+- 🚀 I am currently exploring Typescript and Next.js.
 - ⚡ Fun fact: **I love three things: coffeee, hiking, and running.**
-- ☄️ Check out more about me **https://pichsophaneatdy.com/**
+- 👩‍💻 Check out more about me **https://pichsophaneatdy.com/**
 
 <p align="left">
 </p>
@@ -11,37 +12,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>📍 My Front-end Stacks </p>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>BootStrap</li>
-  <li>Sass</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Apollo GraphQL Client</li>
-</ul>
+JavaScript | TypeScript | React | Next.js | Apollo Client | BootStrap | Sass | Tailwind CSS | HTML | CSS
+<br></br>
 <p>📍 My Back-end Stacks</p>
-<ul>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>MongoDB</li>
-  <li>MySQL</li>
-  <li>Mongoose</li>
-  <li>Knex.js</li>
-  <li>GraphQL</li>
-  <li>Apollo GraphQL Server</li>
-  <li>Firebase Real-tieme Database</li>
-</ul>
+Node.js | Express.js | GraphQL | Apollo Server | MongoDB | MySQL | Mongoose | Knex.js | Firebase
+<br></br>
 <p>📍 Other technologies</p>
-<ul>
-  <li>Authentication with JSON Web Tokens and Firebase</li>
-  <li>Password hasing with Bcrypt.js</li>
-  <li>Media Management with Cloudinary</li>
-</ul>
+JSON Web Tokens | Framer Motion | Cloudinary | Netlify
 
 ---
 
-<h3 align="left">My Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pichsophaneatdy&show_icons=true&locale=en&layout=compact" alt="pichsophaneatdy" /></p>
 
