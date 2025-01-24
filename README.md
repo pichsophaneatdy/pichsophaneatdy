@@ -3,7 +3,6 @@
 
 - 🚀 I am currently exploring Typescript and Next.js.
 - ⚡ Fun fact: **I love three things: coffeee, hiking, and running.**
-- 👩‍💻 Check out more about me **https://pichsophaneatdy.com/**
 
 <p align="left">
 </p>
